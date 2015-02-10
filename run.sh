@@ -1,3 +1,3 @@
 #!/bin/bash
 
-build/StlWriteIssue test.vtp
+build/StlWriteToStringIssue test.vtp
