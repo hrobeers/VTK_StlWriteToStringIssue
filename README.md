@@ -17,6 +17,7 @@ The GetOutputString() method returns a null pointer, so vtkSTLWriter didn't writ
 Run the following scripts in the current folder:
 
 $ ./build.sh
+
 $ ./run.sh
 
 
